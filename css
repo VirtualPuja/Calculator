@@ -24,6 +24,7 @@ body {
  border: none;
  background: transparent;  
  justify-content: center; /*come back to*/
+ color: black;
 }
 
 .keys{
